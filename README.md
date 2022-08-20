@@ -1,1 +1,3 @@
-# Homework-Week-2
+# Personal Portfolio
+
+https://github.com/laikomari/personal_portfolio.git
